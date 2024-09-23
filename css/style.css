@@ -32,18 +32,11 @@ body {
   padding: 20px
 }
 
-nav ul {
+ul {
   list-style: none;
   padding-left: 0px;
 
-
-}
-
-nav ul.horizontal li {
-	display: inline;
-}
-
-nav a {
+a {
 	color: #cfe2ff;
 }
 
