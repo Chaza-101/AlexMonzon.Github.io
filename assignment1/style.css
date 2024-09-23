@@ -1,0 +1,58 @@
+/* Basic CSS resets -- leveling slight inconsistencies in browsers */
+html, body {
+	margin:0px;
+	padding:0px;
+	height:100%;
+	
+}
+
+html {
+		/* Standard text-settings below */
+	font-size: 1em;
+    line-height: 1.4em;
+}
+
+
+
+
+body {
+		font-family: 'comic sans ms', 'brush script mt', sans-serif;
+	font: #0C264E;
+	background: #004d99;
+	color: #001a4d;
+}
+
+
+div#container {
+	border: 4px dotted #001a4d;
+	width: 850px;
+	margin: auto;
+	margin-top: 80px;
+	background: #b3ccff;
+	padding: 20px;
+}
+
+header{
+	font-family: 'century gothic';
+}
+
+h1, h2{
+	padding: 5px;
+}
+
+footer{
+	font-size: 12px;
+}
+
+header, footer{
+	background: #ccddff;
+	padding: 10px;
+}
+
+main{
+	padding: 20px;
+}
+
+p.poe{
+text-shadow: 0px 2px white;
+}

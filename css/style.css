@@ -1,0 +1,71 @@
+/* Basic CSS resets -- leveling slight inconsistencies in browsers */
+html, body {
+	margin:0px;
+	padding:0px;
+	height:100%;
+}
+
+html {
+	
+	font-size: 1em;
+    line-height: 1.4em;
+}
+
+
+
+
+body {
+	
+  font-family: "Comic Sans MS", Palatino;
+  background: #cfe2ff;
+  color: #041f47;
+  margin: 100px;
+}
+
+#container {
+	
+  border: 5px, solid, #041f47;
+  background: #7195c9;
+  width: 90;
+  max-width: 1200px;
+  margin: auto;
+  padding: 20px
+}
+
+nav ul {
+  list-style: none;
+  padding-left: 0px;
+  line-height: 2.5
+
+}
+
+nav ul.horizontal li {
+	display: inline;
+}
+
+nav a {
+	text-decoration: none;
+	border: 1px solid black;
+	padding: 5px;
+	margin: 5px;
+	display: inline-#041f47;
+	background: #041f47;
+	border-radius: 8px;
+	color: #cfe2ff;
+}
+
+a:hover {
+  color: #cfe2ff;
+}
+
+figure {
+  margin: center;
+}
+
+figure img {
+  width: 100%;
+}
+
+figcaption, footer {
+  font-size: 0.75em;
+}
