@@ -35,7 +35,7 @@ body {
 nav ul {
   list-style: none;
   padding-left: 0px;
-  line-height: 2.5
+
 
 }
 
@@ -44,13 +44,6 @@ nav ul.horizontal li {
 }
 
 nav a {
-	text-decoration: none;
-	border: 1px solid black;
-	padding: 5px;
-	margin: 5px;
-	display: inline-#041f47;
-	background: #041f47;
-	border-radius: 8px;
 	color: #cfe2ff;
 }
 
