@@ -1,0 +1,193 @@
+/* Basic CSS resets -- leveling slight inconsistencies in browsers */
+html, body {
+	margin:0px;
+	padding:0px;
+	height:100%;
+}
+
+html {
+		/* Standard text-settings below */
+	font-size: 1em;
+    line-height: 1.4em;
+}
+
+
+
+
+body {
+	background: #0d1a34;
+	
+}
+
+
+#container {
+
+}
+
+    #star1{
+		color: #fdf4c8;
+		position: absolute;
+		bottom: 500px;
+		right: 1500px;
+		font-size: 4em;
+		transition: all 30s;
+	}
+    #star2{
+		color: #fdf4c8;
+		position: absolute;
+		bottom: 400px;
+		right: 1400px;
+		font-size: 3em;
+		transition: all 30s;
+	}
+    #star3{
+		color: #fdf4c8;
+		position: absolute;
+		bottom: 600px;
+		right: 1000px;
+		font-size: 4em;
+		transition: all 30s;
+	}
+    #star4{
+		color: #fdf4c8;
+		position: absolute;
+		bottom: 500px;
+		right: 1100px;
+		font-size: 2.5em;
+		transition: all 30s;
+	}
+    #star5{
+		color: #fdf4c8;
+		position: absolute;
+		bottom: 550px;
+		right: 900px;
+		font-size: 3.5em;
+		transition: all 20s;
+	}
+    #star6{
+		color: #fdf4c8;
+		position: absolute;
+		bottom: 570px;
+		right: 1250px;
+		font-size: 6em;
+		transition: all 15s;
+	}
+	#star7{
+		color: #fdf4c8;
+		position: absolute;
+		bottom: 400px;
+		right: 700px;
+		font-size: 4em;
+		transition: all 25s;
+	}
+	#star8{
+		color: #fdf4c8;
+		position: absolute;
+		bottom: 500px;
+		right: 600px;
+		font-size: 3em;
+		transition: all 30s;
+	}
+	#star9{
+		color: #fdf4c8;
+		position: absolute;
+		bottom: 550px;
+		right: 750px;
+		font-size: 2.5em;
+		transition: all 25s;
+	}
+	#star10{
+		color: #fdf4c8;
+		position: absolute;
+		bottom: 550px;
+		right: 470px;
+		font-size: 5.5em;
+		transition: all 20s;
+	}
+	#star11{
+		color: #fdf4c8;
+		position: absolute;
+		bottom: 500px;
+		right: 150px;
+		font-size: 23em;
+		transition: all 30s;
+	}
+
+	#star1:hover {
+		rotate: 3600deg;
+		transform: scale(3);
+	}
+	#star2:hover {
+		rotate: 3600deg;
+		transform: scale(3);
+	}
+	#star3:hover {
+		rotate: 3600deg;
+		transform: scale(3);
+	}
+	#star4:hover {
+		rotate: 3600deg;
+		transform: scale(3);
+	}
+	#star5:hover {
+		rotate: 3600deg;
+		transform: scale(3);
+	}
+	#star6:hover {
+		rotate: 3600deg;
+		transform: scale(3);
+	}
+	#star7:hover {
+		rotate: 3600deg;
+		transform: scale(3);
+	}
+	#star8:hover {
+		rotate: 3600deg;
+		transform: scale(3);
+	}
+	#star9:hover {
+		rotate: 3600deg;
+		transform: scale(3);
+	}
+	#star10:hover {
+		rotate: 3600deg;
+		transform: scale(3);
+	}
+	#star11:hover {
+		rotate: 3600deg;
+		color: #9ef8f2;
+	}
+
+	#text {
+		font-family: "Orbitron", sans-serif;
+		color: #fdf4c8;
+		position: absolute;
+		bottom: 700px;
+		right: 650px;
+		font-size: 4em;
+		transition: all 5s;
+	}
+
+	#text:hover {
+		color: #9ef8f2;
+		transform: translate(0px,500px) scale(3.5);;
+	}
+
+    #back1{
+		color: #2b53a2;
+		position: absolute;
+		bottom: 1300px;
+		right: 350px;
+		font-size: 120em;
+		opacity: 50%;
+		z-index: -1;
+	}
+    #back2{
+		color: #2b53a2;
+		position: absolute;
+		bottom: 1400px;
+		right: 900px;
+		font-size: 120em;
+		opacity: 50%;
+		z-index: -1;
+	}
