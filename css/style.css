@@ -17,7 +17,7 @@ html {
 body {
 	
   font-family: "Comic Sans MS", Palatino;
-  background: #cfe2ff url(sunset.png);
+  background: url(img/sunset.png) no-repeat fixed center;
   color: #041f47;
   margin: 100px;
 }
