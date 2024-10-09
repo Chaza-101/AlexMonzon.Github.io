@@ -18,7 +18,7 @@ html {
 body {
 		font-family: 'comic sans ms', 'brush script mt', sans-serif;
 	font: #0C264E;
-	background: #004d99;
+	background: #004d99 url(Sunset.png) no-repeat fixed center;
 	color: #001a4d;
 }
 
